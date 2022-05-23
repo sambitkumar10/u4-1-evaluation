@@ -1,0 +1,22 @@
+.task {
+ display:flex;
+ /* border:2px solid red; */
+ align-items:center;
+ width:100%;
+ justify-content: center;
+ 
+}
+
+.task>div{
+  /* border:1px solid black; */
+  margin:10px ;
+ 
+}
+.task>div>button{
+  border:none;
+ 
+}
+.striked{
+  text-decoration: line-through;
+  color:grey;
+}

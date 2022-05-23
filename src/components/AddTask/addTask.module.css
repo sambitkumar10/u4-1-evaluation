@@ -1,0 +1,12 @@
+.addTask {
+  margin:auto
+}
+.todoForm>input{
+   margin-left:140px;
+   margin-top:30px;
+   padding:10px;
+}
+.todoForm>button{
+  padding:10px;
+  margin-left:10px;
+}

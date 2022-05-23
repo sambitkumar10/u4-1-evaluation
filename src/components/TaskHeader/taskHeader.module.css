@@ -1,0 +1,7 @@
+.taskHeader {
+  margin:auto;
+  text-align:center;
+  /* background-image: linear-gradient(to right top, #25549a, #3c9ed6, #1ec3d2, #32ce8f, #a2c94d); */
+  background-color: pink;
+  padding:20px;
+}
